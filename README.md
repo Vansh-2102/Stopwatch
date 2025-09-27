@@ -35,3 +35,6 @@ npm run build
 React 18
 
 Vite
+
+📸 Preview
+<img width="1355" height="349" alt="image" src="https://github.com/user-attachments/assets/98f7f296-35fc-45a4-a78a-fda3af683a5c" />
